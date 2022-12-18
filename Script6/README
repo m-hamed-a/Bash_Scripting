@@ -1,0 +1,4 @@
+A program that prints the following messages:
+1. Display a welcome message to the logged in user.
+2. Display today's date to the user.
+3. Display the number of users who are currently logged into the system.
