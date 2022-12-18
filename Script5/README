@@ -1,0 +1,1 @@
+A program that saves the first and third fields of the /etc/passwd file every day in a file with the date of the same day and does not keep it for more than two days.
