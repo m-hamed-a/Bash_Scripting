@@ -1,0 +1,1 @@
+A program that takes the IP of a server and its User/Password in front of the script name, and if it is pingable, it sends its /etc/passwd file to the /home/user path of that server, otherwise a message about show server unavailability.
